@@ -1,0 +1,23 @@
+{
+    "name": "cielo-sdk-js",
+    "version": "1.0.0",
+    "description": "SDK JS Cielo",
+    "keywords": [
+        "payments",
+        "sdks",
+        "js",
+        "cielo"
+    ],
+    "contributors": [
+        "Bruno Gonçalves"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:payments-sdks/cielo-sdk-js.git"
+    },
+    "main": "src/index.js",
+    "dependencies": {
+        "axios": "^0.21.1"
+    }
+}
